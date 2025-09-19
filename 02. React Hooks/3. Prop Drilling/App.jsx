@@ -1,4 +1,4 @@
-import ComponentA from "./ComponentA";
+import ComponentA from "./Component/ComponentA";
 
 const App = () => {
   const name = "HuXn";
